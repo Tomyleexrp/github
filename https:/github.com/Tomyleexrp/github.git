@@ -1,0 +1,9 @@
+git@github.com:Tomyleexrp/github.git
+https://github.com/Tomyleexrp/github.git
+echo "# github" >> README.md 
+git init 
+git add README.md 
+git commit -m "pierwsze zatwierdzenie" 
+git branch -M main 
+git remote add origin https://github.com/Tomyleexrp/github.git
+ git push - jesteś głównym pochodzenia
